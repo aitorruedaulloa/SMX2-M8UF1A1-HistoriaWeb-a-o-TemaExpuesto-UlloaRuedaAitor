@@ -1,2 +1,6 @@
-# SMX2-M8UF1A1-HistoriaWeb-a-o-TemaExpuesto-UlloaRuedaAitor
-SMX2, Actividad de timeline 1995-1996
+# PHP y CSS
+## PHP
+
+Éste lenguaje de programación data del 8 de junio de 1995, se usa principalmente para el desarrollo de páginas web. Se utiliza normalmente para hacer las páginas web más dinámicas, haciendólas más atractivas a la vista.
+
+
