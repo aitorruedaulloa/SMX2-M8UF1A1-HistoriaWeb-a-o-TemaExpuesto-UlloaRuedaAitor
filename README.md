@@ -1,7 +1,7 @@
 # PHP
 
 ##Breve historia y utilidades
-Éste lenguaje de programación data del *8 de junio de 1995*, se usa principalmente para el desarrollo de páginas web. 
+Éste lenguaje de programación data del **8 de junio de 1995**, se usa principalmente para el desarrollo de páginas web. 
 Se utiliza normalmente para hacer las páginas web más dinámicas, haciendólas más atractivas a la vista.
 
 Está basado en HTML, el significado literal de sus siglas es **preprocessador de hipetexto**. Su código es totalmente abierto, es decir,
